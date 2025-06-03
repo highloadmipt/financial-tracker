@@ -16,3 +16,6 @@
 [submodule "expensepublisher"]
 	path = expensepublisher
 	url = https://github.com/highloadmipt/expensepublisher
+[submodule "load-tester"]
+	path = load-tester
+	url = https://github.com/highloadmipt/load-tester
