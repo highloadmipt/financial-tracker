@@ -1,18 +1,18 @@
 [submodule "k8s"]
 	path = k8s
-	url = https://github.com/robot-robotovich/k8s
+	url = https://github.com/highloadmipt/k8s
 [submodule "userservice"]
 	path = userservice
-	url = https://github.com/robot-robotovich/userservice
+	url = https://github.com/highloadmipt/userservice
 [submodule "expensewriter"]
 	path = expensewriter
-	url = https://github.com/robot-robotovich/expensewriter
+	url = https://github.com/highloadmipt/expensewriter
 [submodule "website"]
 	path = website
-	url = https://github.com/robot-robotovich/website
+	url = https://github.com/highloadmipt/website
 [submodule "expensereader"]
 	path = expensereader
-	url = https://github.com/robot-robotovich/expensereader
+	url = https://github.com/highloadmipt/expensereader
 [submodule "expensepublisher"]
 	path = expensepublisher
-	url = https://github.com/robot-robotovich/expensepublisher
+	url = https://github.com/highloadmipt/expensepublisher
