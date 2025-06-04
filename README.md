@@ -1,5 +1,6 @@
 # [SCRUM отчет](https://docs.google.com/document/d/1kIif5yLiCyv58FZksV8rstWwcHyVzuUB0GIjTGE3gjg/edit?usp=sharing)
 # [IDR отчет](https://docs.google.com/document/d/1fPR-elIr1Z9RdOSRzUTe9hBIDJiWsmlJQk3JtDHeXAA/edit?tab=t.0)
+# [ОТЧЕТ](https://docs.google.com/document/d/17b8LQ8n7DfQeT8k4Zi5yu1tqThyJ5UFGvt7Km8qUfiU/edit?usp=sharing)
 
 
 # Запуск проекта
